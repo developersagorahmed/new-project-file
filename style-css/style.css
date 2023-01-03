@@ -1,3 +1,10 @@
+body p{
+    color: red;
+    text-align: center;
+    background-color: green;
+    border: 3px solid red;
+    border-radius: 10px;
+}
 body{
     width: 100%;
     text-align: -webkit-center;
